@@ -16,3 +16,5 @@ User and Post class added
 
 Part 5- Added AMA Database
 and show data from it in home page
+
+Part 6- Pagination added

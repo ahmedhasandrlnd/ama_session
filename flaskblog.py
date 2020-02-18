@@ -1,5 +1,5 @@
 from datetime import datetime
-from flask import Flask, render_template, url_for, flash, redirect
+from flask import Flask, render_template, url_for, flash, redirect, request
 from flask_sqlalchemy import SQLAlchemy
 from forms import RegistrationForm, LoginForm
 
@@ -25,8 +25,9 @@ class Post(db.Model):
 @app.route("/")
 @app.route("/home")
 def home():
-	posts=Post.query.all()
-	return render_template('home.html', posts=posts)
+    page = request.args.get('page', 1, type=int)
+    posts = Post.query.order_by(Post.date_posted.desc()).paginate(page=page, per_page=3)
+    return render_template('home.html', posts=posts)
 
 
 @app.route("/about")
