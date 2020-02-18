@@ -13,3 +13,6 @@ Login and registration files added
 
 Part 4- Database
 User and Post class added
+
+Part 5- Added AMA Database
+and show data from it in home page
