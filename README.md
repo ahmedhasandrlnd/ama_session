@@ -18,3 +18,5 @@ Part 5- Added AMA Database
 and show data from it in home page
 
 Part 6- Pagination added
+
+Part 7- User posts route added
