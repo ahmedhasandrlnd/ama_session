@@ -32,7 +32,7 @@ Jordan, Slack handle: @Jordan.Udacity. </br>
 You can ask anything which is non-technical in nature like scholarship concerns.</br> 
 **_What is the purpose of this app?_** </br>
 This web app will give a nice interface to go over different questions asked in the AMA sessions. </br>
-Also it will act as an archive of all previous questions in AMA sessions even hey are deleted from the slack channel. </br>
+Also it will act as an archive of all previous questions in AMA sessions even they are deleted from the slack channel. </br>
 
 [Back to Table of Content](#index)
  
