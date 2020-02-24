@@ -10,7 +10,7 @@
 
 
 <a id='video'></a>
-**_Video Demo of the [deployed App](http://http://174.129.190.139/)(http://http://174.129.190.139/)_**
+**_Video Demo of the [deployed App](http://http://54.85.253.188/)(http://http://54.85.253.188/)_**
 ![Ask Me Anything](static/gif/AMA.gif)
 <hr/> 
 
