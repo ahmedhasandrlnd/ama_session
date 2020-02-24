@@ -22,14 +22,17 @@
 
 **_What is an AMA?_**</br>
 AMA us simply **Ask Me Anything.**</br> These sessions are initiated by the Udacity Community team. </br>You can ask questions and they personally reply to your queries. </br> 
-**_Who are the Udacity community team?_**
+**_Who are the Udacity community team?_**</br>
 Clayton, Slack handle: @Clayton.Udacity. </br>
 Brenda Law, Slack handle: @Brenda.Udacity. </br>
 Grace, Slack handle: @Grace.Udacity. </br>
 Palak, Slack handle: @Palak.Udacity. </br>
 Jordan, Slack handle: @Jordan.Udacity. </br> 
-**_What do you ask?_**
+**_What do you ask?_**</br>
 You can ask anything which is non-technical in nature like scholarship concerns.</br> 
+**_What is the purpose of this app?_** </br>
+This web app will give a nice interface to go over different questions asked in the AMA sessions. </br>
+Also it will act as an archive of all previous questions in AMA sessions even hey are deleted from the slack channel. </br>
 
 [Back to Table of Content](#index)
  
