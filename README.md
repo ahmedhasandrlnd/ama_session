@@ -19,17 +19,16 @@
 
 <a id='overview'></a>
 ## Project Overview
-    <h1>About Page</h1>
-    <p> <b> WWhat is an AMA? </b> </p>
-    <p> AMA us simply <b>Ask Me Anything.</b></br> These sessions are initiated by the Udacity Community team. </br>You can ask questions and they personally reply to your queries. </p>
-    <p> <b> Who are the Udacity community team? </b> </p>
-    <p> Clayton, Slack handle: @Clayton.Udacity. </br>
+    **_What is an AMA?_**</br>
+    AMA us simply **Ask Me Anything.**</br> These sessions are initiated by the Udacity Community team. </br>You can ask questions and they personally reply to your queries. </br> 
+    **_Who are the Udacity community team?_**
+    Clayton, Slack handle: @Clayton.Udacity. </br>
     Brenda Law, Slack handle: @Brenda.Udacity. </br>
     Grace, Slack handle: @Grace.Udacity. </br>
     Palak, Slack handle: @Palak.Udacity. </br>
-    Jordan, Slack handle: @Jordan.Udacity. </br> </p>
-	<p><b>What do you ask? </b> </p>
-	<p> You can ask anything which is non-technical in nature like scholarship concerns.</p><br/><hr/> 
+    Jordan, Slack handle: @Jordan.Udacity. </br> 
+	**_What do you ask?_**
+	You can ask anything which is non-technical in nature like scholarship concerns.</br> 
 
 [Back to Table of Content](#index)
  
