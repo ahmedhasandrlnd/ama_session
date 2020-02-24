@@ -38,6 +38,14 @@ Also it will act as an archive of all previous questions in AMA sessions even he
  
 <a id='func'></a>
 ## Functionalities
+**Home Page**
+![home](static/images/home.JPG)
+**About Page**
+![about](static/images/about.JPG)
+**Pagination**
+![pagination](static/images/pagination.JPG)
+**User Posts**
+![user posts](static/images/user_posts.JPG)
  
 
 [Back to Table of Content](#index)
