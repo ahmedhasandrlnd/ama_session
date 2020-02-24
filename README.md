@@ -52,7 +52,7 @@ Also it will act as an archive of all previous questions in AMA sessions even he
 
 <a id='diagram'></a>
 ## Infrastructure Diagram
-![Diagram](diagram.JPG)
+![Diagram](static/images/diagram.JPG)
 <hr/> 
 
 [Back to Table of Content](#index)
