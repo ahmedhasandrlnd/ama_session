@@ -10,7 +10,7 @@
 
 
 <a id='video'></a>
-**_Video Demo of the [deployed App](http://54.85.253.188/)(http://54.85.253.188/)_**
+**_Video Demo of the [deployed App](http://54.85.253.188/)(http://ec2-54-85-253-188.compute-1.amazonaws.com)_**
 ![Ask Me Anything](static/gif/AMA.gif)
 <hr/> 
 
